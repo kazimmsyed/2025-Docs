@@ -1,0 +1,9 @@
+Client ID,Fabrics,variant,Length,Amount,Order date,Status,Next Actions,Fabric code
+<div>Amy parker<br /></div>,Satin,eco,5,300,24-May-2025,Delivered,Update Customer,B70004
+<div>Saify Kirmani<br /></div>,Satin,premium,10,2500,29-May-2025,Delivered,Request Feedback,B70004
+<div>Yusuf Syed<br /></div>,Rubia,eco,10,400,31-May-2025,Processing,Confirm Inventory,B70005
+<div>Lori green<br /></div>,Georgette,eco,70,4200,29-May-2025,In Production,Finalize Shipping Details,B70003
+<div>Sarah speller<br /></div>,Chiffon,value,20,1300,24-May-2025,Shipped,Request Feedback,B70001
+<div>Stacy Cooper<br /></div>,Chenille,eco,50,4000,27-May-2025,Processing,Update Customer,B70002
+<div>David Simson<br /></div>,Chiffon,eco,170,13600,26-May-2025,In Production,Update Customer,B70001
+<div>Kazim Syed<br /></div>,Satin,premium,5,1250,27-May-2025,Shipped,Update Customer,B70004

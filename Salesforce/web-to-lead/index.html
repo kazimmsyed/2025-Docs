@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet"
+href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script
+src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+    <form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8&orgId=00DQy00000QZigj" method="POST" class="needs-validation" novalidate>
+<input type="hidden" name="oid" value="00DQy00000QZigj">
+<!--replace with your org id which can be found in company settings -->
+<input type="hidden" name="retURL" value="kazimmsyed.github.io">
+<input type="hidden" name="lead_source" value="Web">
+<div class="form-group">
+<label for="first_name">First Name</label>
+<input id="first_name" type="text" name="first_name" class="form-control" maxlength="40"
+required>
+<div class="invalid-feedback">
+Please enter your first name.
+</div>
+</div>
+<div class="form-group">
+    <label for="last
+_
+name">Last Name</label>
+<input id="last_name" type="text" name="last_name" class="form-control" maxlength="80"
+required>
+<div class="invalid-feedback">
+Please enter your last name.
+</div>
+</div>
+<div class="form-group">
+<label for="email">Email</label>
+<input id="email" type="email" name="email" class="form-control" maxlength="80" required>
+<div class="invalid-feedback">
+Please enter a valid email address.
+</div>
+</div>
+<div class="form-group">
+<label for="company">Company</label>
+<input id="company" type="text" name="company" class="form-control" maxlength="40">
+</div>
+<button type="submit" class="btn btn-primary">Submit</button>
+</form>
+<!-- Add this script to your page body to handle form validation -->
+<script>
+    // Enable form validation using Bootstrap
+    (function() {
+    'use strict';
+    window.addEventListener('load'
+    , function() {
+    var form = document.getElementsByClassName('needs-validation')[0];
+    form.addEventListener('submit'
+    , function(event) {
+    if (form.checkValidity() === false) {
+    event.preventDefault();
+    event.stopPropagation();
+    }
+    form.classList.add('was-validated');
+    }, false);
+    }, false);
+    })();
+</script>
+</body>
+</html>

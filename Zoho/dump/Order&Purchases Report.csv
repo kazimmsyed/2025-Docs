@@ -1,0 +1,30 @@
+Client ID,fabric code,Variant,Length,Amount,Order date,Status,Next Actions,Order_time,sys_date
+<div>Faraaz Ahmed</div>,B70003,Premium,5,325,24-May-2025,Ready to Ship,Update Customer,15:37,23-May-2025
+<div>Saify Kirmani<br /></div><div><br /></div>,B70002,Value,5,325,25-May-2025,In Production,Confirm Inventory,15:36,23-May-2025
+<div>sadiksyed</div>,B70001,Premium,15,700,23-May-2025,Ready to Ship,Finalize Shipping Details,11:24,23-May-2025
+<div>sahilsyed</div>,B70001,Value,5,325,23-May-2025,In Production,Confirm Inventory,11:23,23-May-2025
+<div>kazimsyed</div>,B70019,Value,5,700,27-May-2025,In Production,Update Customer,11:00,23-May-2025
+ClientY,B70025,eco,5,350,23-May-2025,Delivered,Confirm Inventory,18:00,22-May-2025
+ClientX,B70024,value,6,300,23-May-2025,Shipped,Assign to Fulfillment,17:00,22-May-2025
+ClientW,B70023,premium,8,800,23-May-2025,Shipped,Confirm Inventory,16:00,22-May-2025
+ClientV,B70022,eco,3,210,23-May-2025,In Production,Confirm Inventory,15:00,22-May-2025
+ClientU,B70021,value,9,450,23-May-2025,Confirmed,Assign to Fulfillment,14:00,22-May-2025
+ClientT,B70020,premium,4,400,23-May-2025,Processing,Confirm Inventory,13:00,22-May-2025
+ClientS,B70019,eco,7,490,23-May-2025,Delivered,Confirm Inventory,12:00,22-May-2025
+ClientR,B70018,value,5,250,23-May-2025,Shipped,Finalize Shipping Details,11:00,22-May-2025
+ClientQ,B70017,premium,10,1000,23-May-2025,Ready to ship,Confirm Inventory,10:00,22-May-2025
+ClientP,B70016,eco,6,420,23-May-2025,In Production,Update Customer,09:00,22-May-2025
+ClientO,B70015,value,4,200,22-May-2025,Shipped,Request Feedback,11:30,22-May-2025
+ClientN,B70014,premium,7,700,22-May-2025,Ready to ship,Confirm Inventory,10:20,22-May-2025
+ClientM,B70013,eco,3,210,22-May-2025,In Production,Schedule for shipping,09:10,22-May-2025
+ClientL,B70012,value,8,400,22-May-2025,Confirmed,Confirm Inventory,15:50,22-May-2025
+ClientK,B70011,premium,5,500,22-May-2025,Processing,Assign to Fulfillment,14:40,22-May-2025
+ClientJ,B70010,eco,6,420,22-May-2025,Delivered,Finalize Shipping Details,12:30,22-May-2025
+ClientI,B70009,value,2,100,22-May-2025,Shipped,Schedule for shipping,11:20,22-May-2025
+<div>ClientH<br /></div>,B70002,premium,9,900,22-May-2025,Ready to ship,Confirm Inventory,10:10,22-May-2025
+ClientG,B70007,eco,4,280,21-May-2025,In Production,Request Feedback,13:00,22-May-2025
+ClientF,B70006,value,7,350,20-May-2025,Confirmed,Confirm Inventory,08:30,22-May-2025
+ClientE,B70005,premium,6,600,19-May-2025,Processing,Confirm Inventory,16:00,22-May-2025
+ClientD,B70004,eco,10,700,18-May-2025,Delivered,Update Customer,14:15,22-May-2025
+ClientC,B70003,value,3,150,17-May-2025,Shipped,Assign to Fulfillment,09:00,22-May-2025
+ClientB,B70002,premium,8,800,16-May-2025,In Production,Finalize Shipping Details,11:45,22-May-2025
